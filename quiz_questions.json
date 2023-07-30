@@ -1,0 +1,197 @@
+[
+    {
+        "question": "What is the command to list files in a directory in Linux?",
+        "options": ["ls", "dir", "list", "show"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the command to check the current directory in Linux?",
+        "options": ["ls", "pwd", "cd", "dir"],
+        "answers": [1]
+    },
+    {
+        "question": "What is the primary function of the 'sudo' command in Linux?",
+        "options": ["Change directory", "Display file content", "Execute command with superuser rights", "List directory contents"],
+        "answers": [2]
+    },
+    {
+        "question": "What command in Linux is used for changing file permissions?",
+        "options": ["change", "chmod", "perm", "chown"],
+        "answers": [1]
+    },
+    {
+        "question": "What is the purpose of the 'grep' command in Linux?",
+        "options": ["File compression", "Search text patterns in file", "Change file permissions", "Check system information"],
+        "answers": [1]
+    },
+    {
+        "question": "What command in Linux is used to rename a file?",
+        "options": ["rename", "ren", "mv", "change"],
+        "answers": [2]
+    },
+    {
+        "question": "What is the command in Linux to display the contents of a file?",
+        "options": ["open", "cat", "show", "display"],
+        "answers": [1]
+    },
+    {
+        "question": "Which command in Linux is used to create a directory?",
+        "options": ["cd", "dir", "mkdir", "create"],
+        "answers": [2]
+    },
+    {
+        "question": "What is the root account in Linux?",
+        "options": ["The primary user account", "The account for software installations", "The superuser account", "The account for system maintenance"],
+        "answers": [2]
+    },
+    {
+        "question": "What is a Linux distribution?",
+        "options": ["A type of file system", "A package of software that includes the Linux kernel", "A version of the Linux kernel", "A command in Linux"],
+        "answers": [1]
+    },
+    {
+        "question": "What does the Linux command 'ps' do?",
+        "options": ["Stops a process", "Starts a process", "Displays information about processes", "Prioritizes a process"],
+        "answers": [2]
+    },
+    {
+        "question": "Which command is used to check disk space in Linux?",
+        "options": ["du", "df", "ds", "dd"],
+        "answers": [1]
+    },
+    {
+        "question": "What is the command to shut down a Linux system?",
+        "options": ["shutdown", "poweroff", "halt", "All of the above"],
+        "answers": [3]
+    },
+    {
+        "question": "What is the command to view manual pages in Linux?",
+        "options": ["man", "help", "info", "guide"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the purpose of the 'echo' command in Linux?",
+        "options": ["Repeat the last command", "Display a line of text", "Record sound", "Send network packets"],
+        "answers": [1]
+    },
+    {
+        "question": "What is a shell in Linux?",
+        "options": ["A security tool", "A user interface for access to an operating system's services", "A core component of the Linux kernel", "A hardware component"],
+        "answers": [1]
+    },
+    {
+        "question": "Which command is used to remove a directory in Linux?",
+        "options": ["rmdir", "remdir", "rd", "deletedir"],
+        "answers": [0]
+    },
+    {
+        "question": "What does the 'tar' command do in Linux?",
+        "options": ["Creates or extracts files from an archive file", "Tracks system resources", "Lists contents of a directory", "Edits text files"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the Linux command to copy files?",
+        "options": ["copy", "cp", "co", "clone"],
+        "answers": [1]
+    },
+    {
+        "question": "Which command is used to find files in Linux?",
+        "options": ["find", "search", "locate", "All of the above"],
+        "answers": [3]
+    },
+    {
+        "question": "Which command is used to list running processes in Linux?",
+        "options": ["ls", "ps", "procs", "processes"],
+        "answers": [1]
+    },
+    {
+        "question": "Which command can you use to download files from the web in Linux?",
+        "options": ["download", "wget", "webget", "httpget"],
+        "answers": [1]
+    },
+    {
+        "question": "Which command is used to view the list of previously executed commands in Linux?",
+        "options": ["history", "past", "previous", "list"],
+        "answers": [0]
+    },
+    {
+        "question": "Which command can you use to stop a running process in Linux?",
+        "options": ["stop", "kill", "end", "halt"],
+        "answers": [1]
+    },
+    {
+        "question": "What is a pipe (|) used for in Linux?",
+        "options": ["To display output", "To redirect output from one command to another", "To create a new file", "To modify permissions"],
+        "answers": [1]
+    },
+    {
+        "question": "Which command is used to change the owner of a file in Linux?",
+        "options": ["chown", "chmod", "owner", "change"],
+        "answers": [0]
+    },
+    {
+        "question": "What does the 'ssh' command do in Linux?",
+        "options": ["Securely connect to a remote server", "Send a file to a remote server", "Start a web server", "Check the status of a server"],
+        "answers": [0]
+    },
+    {
+        "question": "What does the 'ping' command do in Linux?",
+        "options": ["Connect to a remote server", "Send a network request to see if a server is reachable", "Check the speed of an internet connection", "Display network traffic"],
+        "answers": [1]
+    },
+    {
+        "question": "What does the 'chmod' command do in Linux?",
+        "options": ["Change the mode of a file or directory", "Change the owner of a file or directory", "Change the group of a file or directory", "Change the date of a file or directory"],
+        "answers": [0]
+    },
+    {
+        "question": "What is a daemon in Linux?",
+        "options": ["A type of virus", "A background process", "A type of user account", "A system utility"],
+        "answers": [1]
+    },
+    {
+        "question": "What does the 'df' command do in Linux?",
+        "options": ["Display file content", "Display disk usage", "Display directory structure", "Display file permissions"],
+        "answers": [1]
+    },
+    {
+        "question": "What does the 'touch' command do in Linux?",
+        "options": ["Move a file", "Create a new file", "Modify file permissions", "Delete a file"],
+        "answers": [1]
+    },
+    {
+        "question": "What does the 'wc' command do in Linux?",
+        "options": ["Count lines, words, and characters in a file", "Display the current working directory", "Delete a file", "Check disk space usage"],
+        "answers": [0]
+    },
+    {
+        "question": "What is a symlink in Linux?",
+        "options": ["A symbolic link to another file or directory", "A system utility", "A type of virus", "A type of file system"],
+        "answers": [0]
+    },
+    {
+        "question": "What does the 'crontab' command do in Linux?",
+        "options": ["Schedule tasks to run automatically at specified times", "Display the date and time", "Change the system time", "Create a new tab in the terminal"],
+        "answers": [0]
+    },
+    {
+        "question": "What does the 'tail' command do in Linux?",
+        "options": ["Display the end of a file", "Delete a file", "Display the top of a file", "Create a new file"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the 'init' process in Linux?",
+        "options": ["The first process that the Linux system runs", "A process for initializing hardware", "A process for managing user sessions", "A process for handling system errors"],
+        "answers": [0]
+    },
+    {
+        "question": "What does the 'head' command do in Linux?",
+        "options": ["Create a new file", "Display the start of a file", "Delete a file", "Display the end of a file"],
+        "answers": [1]
+    },
+    {
+        "question": "What does the 'uname' command do in Linux?",
+        "options": ["Change the name of a user", "Display system information", "Rename a file", "Create a new user"],
+        "answers": [1]
+    }
+]

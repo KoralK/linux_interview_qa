@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Application</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <div id="quiz-section" class="my-4">
+            <h3 id="question-text"></h3>
+            <div id="options"></div>
+            <div class="mt-4">
+                <button class="btn btn-primary" id="prev-question">Previous Question</button>
+                <button class="btn btn-primary" id="next-question">Next Question</button>
+            </div>
+            <button class="btn btn-primary mt-4" id="check-answer">Check Answer</button>
+            <p class="mt-4" id="score">Score: 0</p>
+        </div>
+    </div>
+    <script src="quiz.js"></script>
+</body>
+</html>
